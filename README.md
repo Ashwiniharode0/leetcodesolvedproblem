@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -28,8 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0273-integer-to-english-words) |
+## Array
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
