@@ -38,8 +38,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
+| [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 ## Matrix
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
+| [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
