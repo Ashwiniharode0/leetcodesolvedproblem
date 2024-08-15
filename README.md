@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0040-combination-sum-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Matrix
