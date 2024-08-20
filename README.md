@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1646-kth-missing-positive-number) |
@@ -120,8 +122,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
+| [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
