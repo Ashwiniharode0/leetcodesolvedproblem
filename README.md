@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0273-integer-to-english-words) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0273-integer-to-english-words) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 ## Depth-First Search
 |  |
