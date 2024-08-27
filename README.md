@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0040-combination-sum-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
