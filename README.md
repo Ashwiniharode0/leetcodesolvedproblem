@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1646-kth-missing-positive-number) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2047-find-a-peak-element-ii) |
 ## Matrix
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1646-kth-missing-positive-number) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2047-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
