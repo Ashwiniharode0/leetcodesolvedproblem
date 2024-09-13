@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1435-xor-queries-of-a-subarray) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1646-kth-missing-positive-number) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1435-xor-queries-of-a-subarray) |
 ## Stack
 |  |
 | ------- |
