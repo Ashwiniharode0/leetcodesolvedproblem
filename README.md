@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2047-find-a-peak-element-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -247,4 +250,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
