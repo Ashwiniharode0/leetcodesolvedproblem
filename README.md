@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0624-maximum-distance-in-arrays) |
 | [0731-my-calendar-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0906-walking-robot-simulation) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Rolling Hash
@@ -263,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
