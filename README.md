@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0432-all-oone-data-structure) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1484-linked-list-in-binary-tree) |
@@ -270,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
