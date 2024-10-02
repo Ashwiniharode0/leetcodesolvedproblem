@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1256-rank-transform-of-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1435-xor-queries-of-a-subarray) |
