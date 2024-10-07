@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
