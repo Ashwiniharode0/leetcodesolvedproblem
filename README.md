@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0890-lemonade-change) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2047-find-a-peak-element-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1325-path-with-maximum-probability) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
@@ -219,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
@@ -307,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
