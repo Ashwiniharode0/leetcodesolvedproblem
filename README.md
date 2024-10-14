@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0725-split-linked-list-in-parts) |
