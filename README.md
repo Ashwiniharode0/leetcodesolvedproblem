@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0592-fraction-addition-and-subtraction) |
+| [1304-longest-happy-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1923-sentence-similarity-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0890-lemonade-change) |
+| [1304-longest-happy-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1304-longest-happy-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1325-path-with-maximum-probability) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2616-maximal-score-after-applying-k-operations) |
