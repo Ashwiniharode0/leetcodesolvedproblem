@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0273-integer-to-english-words) |
+| [0443-string-compression](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0592-fraction-addition-and-subtraction) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
