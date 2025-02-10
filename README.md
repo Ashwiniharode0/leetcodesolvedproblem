@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0432-all-oone-data-structure) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0624-maximum-distance-in-arrays) |
