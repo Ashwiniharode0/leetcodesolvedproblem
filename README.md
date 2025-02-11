@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1395-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1325-path-with-maximum-probability) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -380,4 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
