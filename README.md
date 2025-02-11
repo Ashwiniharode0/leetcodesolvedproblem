@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -73,12 +74,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1256-rank-transform-of-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1435-xor-queries-of-a-subarray) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1646-kth-missing-positive-number) |
