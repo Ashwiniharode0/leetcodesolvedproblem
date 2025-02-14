@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0921-spiral-matrix-iii) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0200-number-of-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2035-count-sub-islands) |
@@ -303,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2035-count-sub-islands) |
 ## Graph
