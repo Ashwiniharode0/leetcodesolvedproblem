@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0870-magic-squares-in-grid) |
+| [0875-longest-mountain-in-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0907-koko-eating-bananas) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0650-2-keys-keyboard) |
+| [0875-longest-mountain-in-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0875-longest-mountain-in-array) |
 | [1240-stone-game-ii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1240-stone-game-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0567-permutation-in-string) |
+| [0875-longest-mountain-in-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0875-longest-mountain-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -391,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ashwiniharode0/leetcodesolvedproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Geometry
 |  |
